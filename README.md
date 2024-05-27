@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro de Computação atuando como Engenheiro/Analista de Dados na empresa Compass UOL</h3>
 
 <p align="center">
-  <img src="/img/FotoREADME.jpeg" alt="Foto" width="300" />
+  <img src="/img/ImagemHeader.png" alt="Foto" width="800" />
 </p>
 
 🏙️ **Cidade:** Uberlândia/Uberaba - Sou natural de Uberlândia porém hoje moro em uberaba por conta da faculdade.
