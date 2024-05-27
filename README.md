@@ -1,5 +1,5 @@
 <h1 align="center">Satisfação!! Eu sou o Breno Alves Moreira</h1>
-<h3 align="center">Engenheiro de Computação atuando como Engenheiro/Analista de Dados na empresa Compass UOL</h3>
+<h3 align="center">Engenheiro de Computação atuando como Engenheiro/Analista de Dados</h3>
 
 <p align="center">
   <img src="/img/ImagemHeader.png" alt="Foto" width="800" />
