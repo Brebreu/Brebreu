@@ -5,15 +5,16 @@
   <img src="/img/ImagemHeader.png" alt="Foto" width="800" />
 </p>
 
-🏙️ **Cidade:** Uberlândia/Uberaba - Sou natural de Uberlândia porém hoje moro em uberaba por conta da faculdade.
+🏙️ **Cidade:** Uberlândia
 
-🎂 **Idade:** 22 anos
+🎂 **Idade:** 23 anos
 
 🎓 **Instituição de Ensino:** Instituto Federal do Triângulo Mineiro  
 
-📘 **Curso:** Engenharia da Computação - Atualmente no 8º Período 
+📘 **Formação:** Engenharia da Computação 
  
-🚀 **Experiências na área de tecnologia:**  
+🚀 **Experiências na área de tecnologia:**
+* Desenvolvedor de Software Júnior e Consultor de TI na empresa Nolasco Sociedade de Advogados
 * Estágio na área de Data & Analytics na empresa Compass UOL
 * 2 anos na empresa júnior [Bugware](https://www.linkedin.com/company/bugware/) atuando como *Tech Lead* em 2 projetos comerciais diferentes
 * Organização e ministração de cursos e oficinas de Flutter para os colegas da empresa júnior
