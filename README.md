@@ -28,11 +28,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brenomoreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brenomoreira" height="30" width="40" /></a>
-<a href="https://instagram.com/brenoalvesmoreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brenoalvesmoreira" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brebreu&show_icons=true&theme=dracula&locale=pt-br&layout=compact" alt="brebreu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brebreu&show_icons=true&theme=dracula&locale=pt-br" alt="brebreu" /></p>
-
-
